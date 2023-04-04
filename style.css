@@ -359,23 +359,14 @@ color: rgba(13, 96, 111, 0.5);
     }
 }
 
-
-
-
    /* Section 1*/ 
-
-
-
-
 
 .part_1 {
     background-image: url(image_background.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    
     margin: 0;
-    
     height: 765px;
     left: -5px;
     top: 0px;
@@ -384,11 +375,6 @@ color: rgba(13, 96, 111, 0.5);
 .header_background{
     
 box-sizing: border-box;
-    
-/* width: 892px; */
-    
-/* height: 422px; */
-    
 FONT-VARIANT: JIS78;
     
 /* width: 70%; */
@@ -406,13 +392,11 @@ FONT-VARIANT: JIS78;
 
   .text_part_1{
     font-family: 'Aleo';
-font-style: italic;
-font-weight: 700;
-font-size: 20px;
-line-height: 24px;
-
-
-color: #FFFFFF;
+    font-style: italic;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
   }
 
   .pt-site-footer__submit {
@@ -523,18 +507,8 @@ height: 59px;
     
 }
 
-.step_1{
-        
-/* width: 317px; */
-        
-/* height: 154px; */
-        
-/* left: 860px; */
-        
+.step_1{     
 display: block;
-        
-/* top: 0px; */
-        
 font-family: 'Aleo';
         
 font-style: normal;
@@ -583,6 +557,10 @@ color: #0D606F;
     margin-top: 106px;
 }
 
+.container_st{
+    justify-content: center;
+}
+
 .text_part_3_h2{
     font-family: 'Red Hat Text';
     font-style: normal;
@@ -593,7 +571,7 @@ color: #0D606F;
     margin-top: 4%;
     color: #F2785C;
     display: block;
-    margin-left: 27%;
+   
 }
 
 
